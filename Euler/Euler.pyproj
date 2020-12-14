@@ -25,6 +25,27 @@
     <Compile Include="Euler2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Euler3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Euler4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Euler5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Euler6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Euler7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Euler8.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Euler9.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
